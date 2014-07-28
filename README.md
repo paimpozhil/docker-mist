@@ -32,3 +32,6 @@ docker run -ti -p 8000:8000 mistio /bin/bash
 ```
 
 
+### Credits/ More info
+
+https://github.com/mistio/mist.io
