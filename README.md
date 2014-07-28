@@ -2,6 +2,7 @@ docker-mist
 ===========
 
 ### Easy way to test drive Mist.io's public opensource code or to start a dev environment based on this
+
 ```
 ## for the impatient // one command setup :)
 docker run -td -p 8000:8000 paimpozhil/docker-mist
@@ -9,6 +10,7 @@ docker run -td -p 8000:8000 paimpozhil/docker-mist
 ## thats it
 visit http://[server/host ip]:8000
 
+```
 
 ```
 ## to build the image / slower way but you can now customize 
