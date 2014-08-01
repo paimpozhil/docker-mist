@@ -28,7 +28,7 @@ Please note this has no login/authentication whatever for now. Please use it onl
 
 Or use an Nginx proxy or some other auth mechanism if you prefer to use it in production which may not be advised at the moment.
 
-This code ONLY allows me to manage inventory but not to use shell or monitoring features and require login to http://mist.io for some reason. I may have to tinker more with it.
+This code ONLY allows you to manage inventory /shell commands but does not have monitoring features and require login to http://mist.io for some reason. I may have to tinker more with it.
 
 
 Hope this helped you to have a look the Mist.io closely.
